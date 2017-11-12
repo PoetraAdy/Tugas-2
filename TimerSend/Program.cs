@@ -12,6 +12,13 @@ namespace TimerSend
     {
         static void Main(string[] args)
         {
+            //Menambahkan komentar INI
+            /*
+            Putra Adi Wardana
+            NRP : 4210161017
+            Game Tech 2016
+            Mata Kuliah : Workshop Produksi Game 3
+            */
             const int listenPort = 4000;
             var serverAddr = new UdpClient(listenPort);
             var endPoint = new IPEndPoint(IPAddress.Any, listenPort);
