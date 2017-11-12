@@ -1,0 +1,5 @@
+D:\JAringan_3\TimerSend\Client\bin\Debug\Client.exe.config
+D:\JAringan_3\TimerSend\Client\bin\Debug\Client.exe
+D:\JAringan_3\TimerSend\Client\bin\Debug\Client.pdb
+D:\JAringan_3\TimerSend\Client\obj\Debug\Client.exe
+D:\JAringan_3\TimerSend\Client\obj\Debug\Client.pdb

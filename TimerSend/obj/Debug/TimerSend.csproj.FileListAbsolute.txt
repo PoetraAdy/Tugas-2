@@ -1,0 +1,6 @@
+D:\JAringan_3\TimerSend\TimerSend\bin\Debug\TimerSend.exe.config
+D:\JAringan_3\TimerSend\TimerSend\bin\Debug\TimerSend.exe
+D:\JAringan_3\TimerSend\TimerSend\bin\Debug\TimerSend.pdb
+D:\JAringan_3\TimerSend\TimerSend\obj\Debug\TimerSend.csprojResolveAssemblyReference.cache
+D:\JAringan_3\TimerSend\TimerSend\obj\Debug\TimerSend.exe
+D:\JAringan_3\TimerSend\TimerSend\obj\Debug\TimerSend.pdb
